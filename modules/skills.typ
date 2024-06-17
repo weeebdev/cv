@@ -4,15 +4,20 @@
 
 #cvSkill(
   type: [Languages],
-  info: [English #hBar() French #hBar() Chinese]
+  info: [English #hBar() Kazakh #hBar() Russian #hBar() Japanese]
 )
 
 #cvSkill(
   type: [Tech Stack],
-  info: [Tableau #hBar() Python (Pandas/Numpy) #hBar() PostgreSQL]
+  info: [JS/TS/Python/Java/C/C++/Golang #hBar() React/Angular #hBar() SQL/MSSQL/MongoDB #hBar() Git/Docker]
 )
 
 #cvSkill(
-  type: [Personal Interests],
-  info: [Swimming #hBar() Cooking #hBar() Reading]
+  type: [Soft Skills],
+  info: [Teamwork #hBar() Communication #hBar() Problem Solving #hBar() Leadership]
 )
+
+// #cvSkill(
+//   type: [Personal Interests],
+//   info: [Swimming #hBar() Cooking #hBar() Reading]
+// )

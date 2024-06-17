@@ -1,6 +1,6 @@
 #import "../brilliant-CV/template.typ": *
 
-#cvSection("Publications")
+#cvSection("Публикации")
 
 #cvPublication(
   bibPath: "../src/publications.bib",

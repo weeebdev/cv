@@ -1,5 +1,6 @@
-# compiled files
-./*.pdf
+# ignore pdfs in the subdirectories except for output
+**/*.pdf
+!**/output/*.pdf
 
 # MacOS specific files (Apple sucks)
 .DS_Store

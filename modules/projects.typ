@@ -3,13 +3,36 @@
 #cvSection("Projects & Associations")
 
 #cvEntry(
-  title: [Volunteer Data Analyst],
-  society: [ABC Nonprofit Organization],
-  date: [2019 - Present],
-  location: [New York, NY],
+  title: [Volunteer Translator],
+  society: [WikigapKazakhstan, Wikipedia],
+  date: [Mar 2021 - Apr 2021],
+  location: [Almaty, Kazakhstan],
   description: list(
-    [Analyze donor and fundraising data to identify trends and opportunities for growth],
-    [Create data visualizations and dashboards to communicate insights to the board of directors],
-    [Collaborate with other volunteers to develop and implement data-driven strategies]
+    [Participated in the \#WikigapKazakhstan project to close the gender gap on Wikipedia],
   )
 )
+
+#cvEntry(
+  title: [Volunteer Translator],
+  society: [notabenoid],
+  date: [Jul 2026 - Present],
+  location: [Remote],
+  description: list(
+    [Occasionally translate shows/books/games/etc on a closed translators community notabenoid.org]
+  )
+)
+
+#cvEntry(
+  title: [Volunteer Developer],
+  society: [GitHub],
+  date: [Jul 2019 - Present],
+  location: [Remote],
+  description: list(
+    [Issue bugs and features in various projects],
+    [Solve them],
+    [Participate in discussions],
+    [Create my own projects],
+  )
+)
+
+
