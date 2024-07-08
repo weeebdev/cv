@@ -59,7 +59,7 @@
     location: [Almaty, Kazakhstan],
     description: list(
       [Built an experimental polygon for pentesting],
-      [Develoepd a web server for pentesting]
+      [Developed a web server for pentesting]
     ),
 )
 

@@ -15,7 +15,7 @@
 #cvEntry(
   title: [Volunteer Translator],
   society: [notabenoid],
-  date: [Jul 2026 - Present],
+  date: [Jul 2016 - Present],
   location: [Remote],
   description: list(
     [Occasionally translate shows/books/games/etc on a closed translators community notabenoid.org]
