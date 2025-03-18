@@ -2,8 +2,8 @@
 #show: layout
 
 #cvHeader(hasPhoto: false, align: left)
-  #autoImport("education")
   #autoImport("professional")
+  #autoImport("education")
   #autoImport("projects")
   #autoImport("certificates")
   #autoImport("publications")

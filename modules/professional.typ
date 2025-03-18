@@ -3,6 +3,27 @@
 #cvSection("Professional Experience")
 
 #cvEntry(
+  title: [Lecturer],
+  society: [Suleyman Demirel University],
+  logo: "../src/logos/pqr_corp.png",
+  date: [Sep 2024 - Present],
+  location: [Almaty, Kazakhstan],
+  description: list(
+     [Teaching CSS 215 "Introduction to algorithms and data structures course"],
+     [Lecturing CSS 410 "Research tools and methods"]
+  ),
+)
+#cvEntry(
+    title: [Software Engineer],
+    society: [E-Finance Center],
+    logo: "../src/logos/xyz_corp.png",
+    date: [Jul 2024 - Present],
+    location: [Astana, Kazakhstan],
+    description: list(
+      [Writing various micrservices using Go, Python and Lua],
+    ),
+)
+#cvEntry(
     title: [Teaching Assistant],
     society: [Nazarbayev University],
     logo: "../src/logos/xyz_corp.png",
@@ -93,8 +114,6 @@
   date: [Oct 2018 - May 2019],
   location: [Almaty, Kazakhstan],
   description: list(
-     [Assisted in Information and Communications Technologies practice lessons],
-     [Assisted in Linear Algebra practice lessons],
-     [Assisted in Fundamentals of Information Systems practice lessons],
+     [Assisted in: Information and Communications Technologies, Linear Algebra, Fundamentals of Information Systems practice lessons],
   ),
 )
