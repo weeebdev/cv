@@ -39,5 +39,5 @@
 
 #cvSkill(
   type: [Soft Skills],
-  info: [Research #hBar() University Teaching #hBar() Mentoring #hBar() Problem Solving #hBar() Communication #hBar() Leadership #hBar() Self Learning]
+  info: [Research #hBar() University Teaching #hBar() Mentoring #hBar() Problem Solving #hBar() Communication #hBar() Leadership #hBar() Self Learning #hBar() Teamwork #hBar() Adaptability #hBar() Cross-cultural Collaboration]
 )

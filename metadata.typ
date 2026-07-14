@@ -7,7 +7,7 @@
 
 #let personalInfo = (
   github: "weeebdev",
-  phone: "+7 700 996 40 89",
+  phone: "+77009964089",
   email: "adilAkhmetovDev@gmail.com",
   linkedin: "adildev",
   homepage: "weeebdev.github.io",
@@ -63,6 +63,6 @@
 
 #let varDisplayLogo = false
 
-#let ifAIInjection = true
+#let ifAIInjection = false
 
-#let keywordsInjectionList = ("Federated Learning", "LLM", "Python", "NixOS", "DevOps", "Cybersecurity", "Research")
+#let keywordsInjectionList = ()

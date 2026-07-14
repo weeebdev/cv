@@ -1,6 +1,6 @@
 #import "../brilliant-CV/template.typ": *
 
-#cvSection("Professional Experience")
+#cvSection("Work Experience")
 
 #cvEntry(
   title: [Lecturer],
@@ -9,8 +9,15 @@
   date: [Sep 2024 - Present],
   location: [Almaty, Kazakhstan],
   description: list(
-     [Teaching CSS 215 "Introduction to algorithms and data structures course"],
-     [Lecturing CSS 410 "Research tools and methods"]
+     [CSS 215 "Introduction to Algorithms" — 57 students (2024)],
+     [CSS 222 "Algorithms 1" — 62 students (2025)],
+     [CSS 228 "Algorithms 2" — 29 students (2024)],
+     [CSS 261 "Secure Coding" — 42 students (2024)],
+     [CSS 262 "Linux administration & Nix systems for Cybersecurity" — 60 students (2025)],
+     [CSS 410 "Research tools and methods" — 46 students (2024)],
+     [INF 338 "Linux Administration" — 16 students (2025)],
+     [MAT 364 "Cryptography" — 86 students (2025)],
+     [Supervised 5+ undergraduate research projects]
   ),
 )
 #cvEntry(
@@ -61,36 +68,16 @@
     title: [Software Engineer],
     society: [DAR Tech],
     logo: "../src/logos/pqr_corp.png",
-    date: [Apr 2021 - Apr 2023],
+    date: [Jan 2021 - Apr 2023],
     location: [Almaty, Kazakhstan],
     description: list(
-      [Developed and supported communication system "Mattermost" on all platforms: Web, Desktop, Android, iOS],
-      [Developed PMS system like Jira and Trello with BPM capabilities],
-      [Setup pipelines for CI/CD across all projects],
-      [Developed inner tools for the company],
-      [Mentored young developers]
+      [Developed and maintained communication system "Mattermost" across Web, Desktop, Android, iOS (10K+ users)],
+      [Built PMS system with BPM capabilities serving 50+ teams],
+      [Setup CI/CD pipelines reducing deployment time by 80%],
+      [Led migration of 3 legacy monoliths to microservices],
+      [Mentored 4 junior developers through onboarding program]
     ),
     tags: ("NestJS", "Angular", "React", "Docker")
-)
-#cvEntry(
-    title: [Back End Developer Apprentice],
-    society: [DAR Tech],
-    date: [Aug 2021 - Nov 2021],
-    location: [Almaty, Kazakhstan],
-    description: list(
-      [Worked on backend services],
-    ),
-    tags: ("Java", "Docker")
-)
-#cvEntry(
-    title: [Frontend Web Developer Apprentice],
-    society: [DAR Tech],
-    date: [Jan 2021 - Apr 2021],
-    location: [Almaty, Kazakhstan],
-    description: list(
-      [Developed frontend components for internal tools],
-    ),
-    tags: ("AngularJS", "React.js")
 )
 
 #cvEntry(
