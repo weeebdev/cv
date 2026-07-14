@@ -8,25 +8,20 @@
 #let personalInfo = (
   github: "weeebdev",
   phone: "+7 700 996 40 89",
-  email: "weeebdev@gmail.com",
+  email: "adilAkhmetovDev@gmail.com",
   linkedin: "adildev",
-  //custom-1: (icon: "", text: "example", link: "https://example.com"),
-  //gitlab: "mintyfrankie",
-  //homepage: "jd.me.org",
-  //orcid: "0000-0000-0000-0000",
+  homepage: "weeebdev.github.io",
+  orcid: "0009-0005-0388-8564",
   researchgate: "Adil-Akhmetov",
-  //extraInfo: "",
 )
 
 /* Language-specific */
-// Add your own languages while the keys must match the varLanguage variable
 #let headerQuoteInternational = (
-  "": [Software Engineer with 2+ years of experience in Full Stack Development and DevOps interested in QuantifiedSelf, OpenSource and Financial management software development.],
-  "en": [Software Engineer with 2+ years of experience in Full Stack Development and DevOps interested in QuantifiedSelf, OpenSource and Financial management software development.],
-  "ru": [Инженер-программист с 2-летним опытом работы в области Full Stack Development и DevOps, заинтересованный в разработке программного обеспечения для QuantifiedSelf, OpenSource и финансового управления.],
-  "fr": [Analyste de données expérimenté à la recherche d'un emploi à temps plein
-    disponible dès maintenant],
-  "zh": [具有丰富经验的数据分析师，随时可入职],
+  "": [Computer Science Researcher | Systems Architect | Python, NixOS, Automation],
+  "en": [Computer Science Researcher | Systems Architect | Python, NixOS, Automation],
+  "ru": [Исследователь в области компьютерных наук | Системный архитектор | Python, NixOS, Автоматизация],
+  "fr": [Chercheur en informatique | Architecte systèmes | Python, NixOS, Automatisation],
+  "zh": [计算机科学研究员 | 系统架构师 | Python, NixOS, 自动化],
 )
 
 #let cvFooterInternational = (
@@ -50,7 +45,6 @@
   "customFont": "Helvetica",
   "firstName": "Адиль",
   "lastName": "Ахметов",
-  // submit an issue if you think other variables should be in this array
 )
 
 #let russianOverwriteInfo = (
@@ -59,16 +53,16 @@
 )
 
 /* Layout Setting */
-#let awesomeColor = "darknight" // Optional: skyblue, red, nephritis, concrete, darknight
+#let awesomeColor = "darknight"
 
-#let profilePhoto = "" // Leave blank if profil photo is not needed
+#let profilePhoto = ""
 
-#let varLanguage = "" // INFO: value must matches folder suffix; i.e "zh" -> "./modules_zh"
+#let varLanguage = ""
 
-#let varEntrySocietyFirst = false // Decide if you want to put your company in bold or your position in bold
+#let varEntrySocietyFirst = false
 
-#let varDisplayLogo = false // Decide if you want to display organisation logo or not
+#let varDisplayLogo = false
 
-#let ifAIInjection = true // Decide if you want to inject AI prompt or not
+#let ifAIInjection = true
 
-#let keywordsInjectionList = ("Software Engineer", "GCP", "Python", "SQL", "React",) // Leave blank if you don't want to inject keywords
+#let keywordsInjectionList = ("Federated Learning", "LLM", "Python", "NixOS", "DevOps", "Cybersecurity", "Research")

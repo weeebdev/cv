@@ -20,7 +20,19 @@
     date: [Jul 2024 - Present],
     location: [Astana, Kazakhstan],
     description: list(
-      [Writing various micrservices using Go, Python and Lua],
+      [Writing various microservices using Go, Python and Lua],
+    ),
+)
+#cvEntry(
+    title: [Section Leader],
+    society: [Code in Place, Stanford University],
+    date: [Apr 2025 - May 2025],
+    location: [Stanford, California, United States],
+    description: list(
+      [Selected as Section Leader for Code in Place 2025 (2000+ applicants)],
+      [Teach CS106A (Python) to 10+ global students],
+      [Run live sessions, mentor, and debug code],
+      [Collaborate with peers and Stanford TAs on teaching]
     ),
 )
 #cvEntry(
@@ -49,16 +61,36 @@
     title: [Software Engineer],
     society: [DAR Tech],
     logo: "../src/logos/pqr_corp.png",
-    date: [Jan 2021 - Apr 2023],
+    date: [Apr 2021 - Apr 2023],
     location: [Almaty, Kazakhstan],
     description: list(
-      [Developed and supported communication system called "Mattermost" on all platforms: Web, Desktop, Android, IOS],
+      [Developed and supported communication system "Mattermost" on all platforms: Web, Desktop, Android, iOS],
       [Developed PMS system like Jira and Trello with BPM capabilities],
       [Setup pipelines for CI/CD across all projects],
       [Developed inner tools for the company],
       [Mentored young developers]
     ),
-    tags: ("Nest", "Angular", "React")
+    tags: ("NestJS", "Angular", "React", "Docker")
+)
+#cvEntry(
+    title: [Back End Developer Apprentice],
+    society: [DAR Tech],
+    date: [Aug 2021 - Nov 2021],
+    location: [Almaty, Kazakhstan],
+    description: list(
+      [Worked on backend services],
+    ),
+    tags: ("Java", "Docker")
+)
+#cvEntry(
+    title: [Frontend Web Developer Apprentice],
+    society: [DAR Tech],
+    date: [Jan 2021 - Apr 2021],
+    location: [Almaty, Kazakhstan],
+    description: list(
+      [Developed frontend components for internal tools],
+    ),
+    tags: ("AngularJS", "React.js")
 )
 
 #cvEntry(
@@ -74,7 +106,7 @@
 
 #cvEntry(
     title: [Information Security Intern],
-    society: [Beeline],
+    society: [Beeline Kazakhstan],
     logo: "../src/logos/pqr_corp.png",
     date: [Jun 2020 - Aug 2020],
     location: [Almaty, Kazakhstan],
@@ -97,7 +129,7 @@
 
 #cvEntry(
   title: [System Administrator Intern],
-  society: [IT Support Group],
+  society: [IT Support Group Kazakhstan],
   logo: "../src/logos/pqr_corp.png",
   date: [May 2020 - Jun 2020],
   location: [Almaty, Kazakhstan],
